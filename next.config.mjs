@@ -8,7 +8,7 @@ const nextConfig = {
         pathname: '/**',
       },
     ],
-    unoptimized: true,   // ← এটা যোগ করলে 403 সমস্যা বেশিরভাগ ক্ষেত্রে চলে যায়
+    unoptimized: true,   
   },
 };
 
